@@ -26,7 +26,11 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+<img width="803" height="495" alt="image" src="https://github.com/user-attachments/assets/d57ea1e0-9803-45f8-a4d3-b32bd620c43a" />
+
 # Output:
+  <img width="821" height="363" alt="image" src="https://github.com/user-attachments/assets/88913bce-ca26-46b7-bfae-f315d2b87df6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -57,7 +61,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+<img width="812" height="374" alt="image" src="https://github.com/user-attachments/assets/0060c68d-fb96-4ae3-bdb1-729c1a97a066" />
+
 # Output:
+<img width="834" height="340" alt="image" src="https://github.com/user-attachments/assets/d6357407-256b-41ae-8acf-f7c94c06eea7" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -81,7 +89,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+<img width="792" height="361" alt="image" src="https://github.com/user-attachments/assets/0c440c96-f8ae-4fb5-ba1f-6d4be9f31b40" />
+
 # Output:
+<img width="820" height="309" alt="image" src="https://github.com/user-attachments/assets/803066fe-e1e6-434f-adb7-eb499053c948" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -165,7 +177,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="789" height="604" alt="image" src="https://github.com/user-attachments/assets/f68a325a-b5d9-4002-9a5f-632a5532f268" />
+
 # Output:
+<img width="819" height="564" alt="image" src="https://github.com/user-attachments/assets/f6b7f161-55a7-4fc6-a05b-615bbefa2e07" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
